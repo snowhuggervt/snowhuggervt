@@ -1,5 +1,5 @@
-# ![Dennis Edwards Header](https://github.com/snowhuggervt/snowhuggervt/blob/main/images/fight_powerbook.jpg)
-## **Dennis Edwards Header**
+# **Dennis Edwards Header**
+## ![Dennis Edwards Header](https://github.com/snowhuggervt/snowhuggervt/blob/main/images/fight_powerbook.jpg)
 ## **I Love Waffles**
 
 
