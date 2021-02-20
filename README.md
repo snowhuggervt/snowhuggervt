@@ -2,7 +2,7 @@
 ## **I Love Waffles**
 
 
-## **snowhuggervt/snowhuggervt** :small_red_triangle:
+### **Why is there a red triangle emoji but no Waffle Emoji?** :small_red_triangle:
 
 > Working on Web Development with MAMP Stack
 <!--
