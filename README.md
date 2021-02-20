@@ -1,3 +1,4 @@
+## [![Dennis Edwards header](https://github.com/snowhuggervt/snowhuggervt/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 # **Hey There**
 ## **I Love Waffles**
 
