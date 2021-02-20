@@ -1,5 +1,5 @@
 # **Dennis Edwards Header**
-## ![Dennis Edwards Header](images/fight_powerbook.jpg)
+## ![Dennis Edwards Header](images/fight_powerbook2.jpg)
 ## **I Love Waffles**
 
 
