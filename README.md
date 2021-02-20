@@ -1,4 +1,4 @@
-## [![Dennis Edwards Header](https://user-images.githubusercontent.com/47122982/108584132-ded16a00-730c-11eb-86b5-d1ba86f5c528.jpg)](https://google.com)
+## [![Dennis Edwards Header]
 # **Hey There**
 ## **I Love Waffles**
 
