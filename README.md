@@ -1,4 +1,4 @@
-## [![Dennis Edwards Header](images/fight_powerbook.jpg)](https://google.com)
+## [![Dennis Edwards Header](https://github.com/snowhuggervt/snowhuggervt/images/fight_powerbook.jpg)](https://google.com)
 # **Hey There**
 ## **I Love Waffles**
 
